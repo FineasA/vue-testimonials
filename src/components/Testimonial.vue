@@ -160,7 +160,7 @@ export default {
   justify-content: center;
 }
 .name {
-  align-self: flex-end;
+  align-items: center;
   font-weight: bold;
   letter-spacing: 2px;
   text-transform: uppercase;
