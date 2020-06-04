@@ -186,6 +186,7 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 20px;
 }
 
 .quote-custom {
