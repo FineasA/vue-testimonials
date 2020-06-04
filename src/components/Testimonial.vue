@@ -92,9 +92,9 @@ export default {
       },
       userSelected: 0,
       customTestimonialText: [
-        "Fineas is a highly devoted developer who took way too much time on this project. However he learned many new concepts that helped me organize data.",
-        "At first I was sketpical whether or not Fineas was a great addition to our team of front-end web developers, but that quickly changed when he started taking the time to fix all the little errors in his small projects.",
-        "People seem to think that you need some sort high intelligence to understand how to program, Fineas told me otherwise. He stated that all it takes is persistence and patience. Persistence to get through the challenges of when things don't go as planned, and patience to take a step back and think for a moment of what is currently going wrong.",
+        "Fineas is a highly devoted developer who took way too much time on this project. However he learned many new concepts that helped him organize data.",
+        "At first I was sketpical whether or not Fineas was a great addition to our team of front-end web developers, but that quickly changed when I witnessed first hand how commited he was to making sure all the little details were worked on.",
+        "People seem to think that you need some sort of high intelligence to understand how to program, Fineas showed me otherwise. He showed that all it takes is persistence and patience. Persistence to get through the challenges of when things don't go as planned, and patience to take a step back and think for a moment of what is currently going wrong.",
         "His ability to adapt to new ideas and concepts makes him a great addition to any team. You can put him in charge of anything, and even if he has not had experience in the matter, he will figure out how to solve the problem.",
         "He's dope."
       ],
