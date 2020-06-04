@@ -179,7 +179,7 @@ export default {
   transition: all 0.3s ease-in;
   margin: 0 auto !important;
   margin-top: 25% !important;
-  height: 45vh;
+  height: 55vh;
   max-width: 55vw !important;
   margin: 20px;
   padding: 70px 50px 50px;
